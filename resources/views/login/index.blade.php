@@ -1,7 +1,6 @@
 @extends('layouts.app')
 
 @section('title', 'Login')
-
 @section('content')
 <div class="flex items-center justify-center h-screen bg-gray-100">
     <div class="w-full max-w-md bg-white p-8 rounded-lg shadow">
