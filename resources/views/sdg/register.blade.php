@@ -85,7 +85,7 @@
             <th class="border border-gray-300 px-2 py-2">आपदा से प्रभावित व्यक्तियों जिनको वित्तीय मदद दी गयी की संखग</th>
             <th class="border border-gray-300 px-2 py-2">ताभार्थियों का प्रतिशत</th>
             <th class="border border-gray-300 px-2 py-2">चयनित माह में नयी आवंटित धनराशि (रु० में) <br> <span class="text-red-500">यदि नहीं है तो शून्य(0) भरे</span></th>
-            <th class="border border-gray-300 px-2 py-2">माह में उपलब्ध धनराशि (मडवार) (२० में) पूर्व माह के अवोध का योग - नयी जावटित धनराशि</th>
+            <th class="border border-gray-300 px-2 py-2">माह में उपलब्ध धनराशि (मडवार) (२० में) <span class="text-red-500">पूर्व माह के अवोध का योग - नयी जावटित धनराशि</span></th>
             <th class="border border-gray-300 px-2 py-2">वितरित धनराशि</th>
             <th class="border border-gray-300 px-2 py-2">वित्तीय प्रतिषात (रु० में)</th>
           </tr>
